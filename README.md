@@ -18,8 +18,7 @@ kecuali pernyataan, tetapi jika dibiarkan, mereka akan menghentikan program dan 
 #### Contoh
 - Berikut adalah fungsi fungsi yang mengubah suhu dari derajat Kelvin menjadi derajat Fahrenheit.Karena nol derajat Kelvin dingin, fungsi fungsi menyimpannya jika melihat negatif negatif suhu.
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
-![image](https://user-images.githubusercontent.com/115771479/207748793-d002d353-ba7b-4d25-96e7-e59fe0337a5b.png)
-
+![gambar](gambar/1.png)
 ### Menangani Pengecualian
 Jika Anda memiliki beberapa kode mencurigakan yang mungkin mengeluarkan pengecualian, Anda dapat mempertahankan program Anda letakkan kode yang mencurigakan di *try: blok. Setelah coba: blok, sertakan pernyataan sertakan **except:* statemen, diikuti oleh blok kode yang menangani masalah seanggun mungkin.
 #### Contoh
